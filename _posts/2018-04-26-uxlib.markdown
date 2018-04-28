@@ -1,0 +1,16 @@
+---
+layout: post
+title: ​User Experience in the Library
+date: 2018-04-26
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: uxlib.png # Add image post (optional)
+tags: 
+---
+ 
+In 2010, I identified a need for the University of Michigan Library to dedicate more resources to the design and usability of the hundreds of websites and access systems developed in-house. I advocated for – and then launched – a new User Experience Department.
+
+* Established department and developed departmental mission.
+* Managed overall vision, strategies, and tasks for department projects.
+* Consulted with other libraries interested in creating a UX program.
+* Trained library staff on user-focused strategies and advocated for data-driven decisions.
+

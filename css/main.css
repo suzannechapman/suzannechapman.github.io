@@ -1,0 +1,224 @@
+/* FONTS */
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arvo'), url(http://themes.googleusercontent.com/static/fonts/arvo/v5/BM-nqL-L5PgjKPDNaleWB_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(http://themes.googleusercontent.com/static/fonts/roboto/v8/Hgo13k-tfSpn0qi1SFdUfbO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Regular'), local('Roboto-Regular'), url(http://themes.googleusercontent.com/static/fonts/roboto/v8/CrYjSnGjrRCn0pd9VQsnFOvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
+
+
+/* GLOBAL */
+body {
+font-size: 15px;
+font-family: 'Roboto', sans-serif;
+font-weight: 300;
+}
+
+.error { margin-left: 10%; margin-right: 10%; margin-top: 80px; }
+
+h1, h2, h3, h4, .navbar, footer , .btn, info, p.author, ul.listposts li span, ul#tabs.nav.nav-tabs {
+font-family: 'Arvo', serif;
+font-weight: 400;
+}
+
+a { color: rgb(241, 64, 40); }
+a:hover { color: rgba(241, 64, 40, 0.53); }
+
+.navbar-inverse .navbar-inner {
+background: #111111;
+}
+
+.top_navigation ul li.current_page a {
+background: #ed5944;
+color: #FFFFFF;
+}
+
+.top_navigation ul li a {
+color: #FFFFFF;
+text-shadow: 1px 1px 0 #000000;
+}
+
+p.copyright {
+  font-size: 10px;  
+  }
+
+/* JOURNAL */
+
+p.jnlauthor {
+  font-family: 'Arvo', serif;
+  font-weight: 400;
+  line-height: 2.5; 
+  }
+  
+  p.jnlback {
+  text-align: left;  
+  }
+  
+  p.jnlcovercred {
+  font-size: 9px;  
+  }
+  
+  .jnlline-big {
+    line-height: 1.8;
+  }
+  
+  .jnline-normal {
+    line-height: 1.0;
+  }
+
+  .jnlline-small {
+    line-height: .8;
+  }
+
+
+/* Book Covers */
+.cover { margin: 5px 20px 15px 20px; box-shadow: -5px 5px 8px rgba(0, 0, 0, 0.125); }
+.covers img:hover { box-shadow: -6px 6px 8px rgba(0, 0, 0, 0.195);}
+.covers h4, .covers p {display: none; }
+.main-cover {margin-top: 15px; box-shadow: -5px 5px 8px rgba(0, 0, 0, 0.125);
+ }
+.more {margin-top: 15px; }
+
+/* Text Pages */
+.author-bio p {margin-top: 15px; }
+
+.contact { margin-top: 60px; }
+
+.catalog { margin-bottom: 40px; }
+.catalog h3.title a { margin-bottom: 0px; }
+
+.description { margin-top: 40px; }
+
+
+/* BLOG */
+.post h2.title { margin-bottom: 5px; }
+.post .postbody { margin-top: 25px; }
+img.left { float: left; margin: 10px 15px 10px 0px; }
+img.right { float: right; margin: 10px 0px 10px 15px; }
+img.center {margin-left: auto; margin-right: auto; margin-top: 10px margin-bottom: 10px; }
+
+
+ /* CUSTOMIZE THE CAROUSEL
+    -------------------------------------------------- */
+
+    /* Carousel base class */
+    .carousel {
+      margin-bottom: 60px;
+    }
+
+    .carousel .container {
+      position: relative;
+      z-index: 9;
+    }
+
+    .carousel-control {
+      height: 80px;
+      margin-top: 0;
+      font-size: 120px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+      background-color: transparent;
+      border: 0;
+      z-index: 10;
+    }
+
+		/* set carousel base height */
+    .carousel .item {
+      height: 400px;
+    }
+    .carousel img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      height: 400px;
+    }
+
+    .carousel-caption {
+      background-color: transparent;
+      position: static;
+      max-width: 550px;
+      padding: 0 20px;
+      margin-top: 200px;
+    }
+    .carousel-caption h1,
+    .carousel-caption .lead {
+      margin: 0;
+      line-height: 1.25;
+      color: #fff;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+    }
+    .carousel-caption .btn {
+      margin-top: 10px;
+    }
+    
+    
+    
+    /* RESPONSIVE CSS
+    -------------------------------------------------- */
+
+    @media (max-width: 979px) {
+
+		/* set carousel 979 height */
+      .carousel .item {
+        height: 360px;
+      }
+      .carousel img {
+        width: auto;
+        height: 360px;
+      }
+
+		.carousel-caption {
+      background-color: transparent;
+      position: static;
+      max-width: 550px;
+      padding: 0 20px;
+      margin-top: 100px;
+    }
+    
+    }
+    
+     @media (max-width: 767px) {
+
+
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
+
+		/* set carousel 767 height */
+      }
+      .carousel .item {
+        height: 280px;
+      }
+      .carousel img {
+        height: 280px;
+      }
+      .carousel-caption {
+        width: 65%;
+        padding: 0 70px;
+        margin-top: 100px;
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
+      .carousel-caption .lead,
+      .carousel-caption .btn {
+        font-size: 18px;
+      }
+      }
+
+/* end CAROUSEL */

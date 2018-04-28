@@ -1,0 +1,17 @@
+---
+layout: post
+title: HathiTrust Digital Library
+date: 2018-04-27
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: hathi.png # Add image post (optional)
+tags: 
+---
+ 
+​HathiTrust is a multi-institutional repository of digitized materials that provides access to over 13 million book & journal volumes to over 8 million users/year. 
+
+* Managed user research activities (usability testing, secondary research, usage stats analysis, etc).
+* Directed design.
+* Designed barrier-free access for users with print disabilities & launched accessibility design/coding initiative.
+* Collaborated with 20+ partner institutions. ​
+
+<a class="btn btn-large btn-inverse" href="http://www.hathitrust.com">HathiTrust</a>
