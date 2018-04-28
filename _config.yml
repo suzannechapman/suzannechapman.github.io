@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Suzanne Chapman # add your name
 author-img:  # add your photo
 about-author: UX Strategy UX Design User Research Content Strategy Designing for Inclusion # add description
-social-twitter: # add your Twitter handle
+social-twitter: LibraryUX # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: suzannechapman# add your Linkedin handle
+social-email: suze.chapman@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
