@@ -7,5 +7,34 @@ img: vetsgov.png # Add image post (optional)
 tags: 
 ---
  
+<div class="row">
+
+<div class="span4">
+
+<img class="img-square main-cover" src="http://splitleveltexts.com/img/covers/harryman-280px.png" title="Carla Harryman - W—/M—">
+</div>
+
+<div class="span6">
+			<h2 class="title">W—/M—</h2>
+			<p class="author">Carla Harryman</p>
+			<p class="date">Available NOW!</p>
+			<p class="format">Paperback<!-- , 121 p. --></p>
+			<p class="price">$12.00</p>
+			<a class="btn btn-large btn-inverse" href="http://www.spdbooks.org/Producte/9780985811129/wm.aspx">Purchase</a>
+		</div>
+
+</div>
+	
+    
 As UX Lead at the Digital Service at Veterans Affairs team, I oversee the user research, content, and design for a portfolio of over 30 products on Vets.gov. ​
+
+My tour of duty with the United States Digital Service is one of the most rewarding phases of my career. My hardest day is better than my best day in previous jobs and I wouldn't trade a minute of it.
+
+I've held 2 positions while embedded with the Department of Veterans Affairs:  design lead on a product sprint team and as a UX Practice lead across a diverse portfolio.
+
+​There are 2 common themes throughout:
+1) My passion for designing with users, not for users (a shared USDS value).
+2) My strong desire to help untangle gnarly problems or lift up and empower a team of 19 designers, researchers, and content specialists to solve these same problems. 
+
+​Although I support and contribute to over 30 individual products connected to Vets.gov, below are a few work samples from some of the projects I was more directly involved with. See Vets.gov/scorecard for details on the full range of products I supported.
 
