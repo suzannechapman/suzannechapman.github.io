@@ -11,20 +11,24 @@ tags:
 
 <div class="span4">
 
-<img class="img-square main-cover" src="http://splitleveltexts.com/img/covers/harryman-280px.png" title="Carla Harryman - W—/M—">
+<img src="/assets/img/va1.png" title="Does it seem pretty easy? It's not.">
 </div>
 
 <div class="span6">
-			<h2 class="title">W—/M—</h2>
-			<p class="author">Carla Harryman</p>
-			<p class="date">Available NOW!</p>
-			<p class="format">Paperback<!-- , 121 p. --></p>
-			<p class="price">$12.00</p>
-			<a class="btn btn-large btn-inverse" href="http://www.spdbooks.org/Producte/9780985811129/wm.aspx">Purchase</a>
-		</div>
+
+As UX Lead at the Digital Service at Veterans Affairs team, I oversee the user research, content, and design for a portfolio of over 30 products on Vets.gov.  
+<p> </p>
+My tour of duty with the United States Digital Service is one of the most rewarding phases of my career. My hardest day is better than my best day in previous jobs and I wouldn't trade a minute of it.  
+<p> </p>
+I've held 2 positions while embedded with the Department of Veterans Affairs:  design lead on a product sprint team and as a UX Practice lead across a diverse portfolio.
+
+			
 
 </div>
-	
+
+</div>
+
+<a class="btn btn-large btn-inverse" href="http://www.spdbooks.org/Producte/9780985811129/wm.aspx">Purchase</a>
     
 As UX Lead at the Digital Service at Veterans Affairs team, I oversee the user research, content, and design for a portfolio of over 30 products on Vets.gov. ​
 
