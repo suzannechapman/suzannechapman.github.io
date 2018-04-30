@@ -242,6 +242,7 @@ a {
   margin-bottom: 0;
   *margin-left: .3em;
   font-size: 14px;
+  font-weight: 700;
   line-height: 20px;
   color: #333333;
   text-align: center;
@@ -273,6 +274,7 @@ a {
 }
 
 .btn:hover,
+.btn:link,
 .btn:focus,
 .btn:active,
 .btn.active,
@@ -281,6 +283,7 @@ a {
   color: #333333;
   background-color: #e6e6e6;
   *background-color: #d9d9d9;
+  text-decoration: none;
 }
 
 .btn:active,

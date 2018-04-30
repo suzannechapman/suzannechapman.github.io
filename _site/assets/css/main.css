@@ -6,7 +6,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
- html {
+html {
   line-height: 1.15;
   /* 1 */
   -ms-text-size-adjust: 100%;
@@ -241,7 +241,9 @@ a {
   padding: 4px 12px;
   margin-bottom: 0;
   *margin-left: .3em;
+  font-weight: 700;
   font-size: 14px;
+  font-weight: 700;
   line-height: 20px;
   color: #333333;
   text-align: center;
@@ -273,6 +275,7 @@ a {
 }
 
 .btn:hover,
+.btn:link,
 .btn:focus,
 .btn:active,
 .btn.active,
@@ -281,6 +284,11 @@ a {
   color: #333333;
   background-color: #e6e6e6;
   *background-color: #d9d9d9;
+<<<<<<< HEAD
+  text-decoration: none;
+=======
+  text-decoration:none;
+>>>>>>> 8ba914b127656b37de78f29199ca277e8055b1b4
 }
 
 .btn:active,
