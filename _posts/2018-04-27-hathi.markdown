@@ -14,4 +14,6 @@ tags:
 * Designed barrier-free access for users with print disabilities & launched accessibility design/coding initiative.
 * Collaborated with 20+ partner institutions.  
 
-<a class="btn btn-large btn-inverse" href="http://www.hathitrust.com">HathiTrust!</a>
+<br />
+
+<a class="btn btn-large btn-inverse" href="http://www.hathitrust.com">HathiTrust</a>

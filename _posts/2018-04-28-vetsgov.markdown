@@ -22,23 +22,120 @@ My tour of duty with the United States Digital Service is one of the most reward
 <p> </p>
 I've held 2 positions while embedded with the Department of Veterans Affairs:  design lead on a product sprint team and as a UX Practice lead across a diverse portfolio.
 
-			
-
 </div>
 
 </div>
-
-<a class="btn btn-large btn-inverse" href="http://www.spdbooks.org/Producte/9780985811129/wm.aspx">Purchase</a>
-    
-As UX Lead at the Digital Service at Veterans Affairs team, I oversee the user research, content, and design for a portfolio of over 30 products on Vets.gov. ​
-
-My tour of duty with the United States Digital Service is one of the most rewarding phases of my career. My hardest day is better than my best day in previous jobs and I wouldn't trade a minute of it.
-
-I've held 2 positions while embedded with the Department of Veterans Affairs:  design lead on a product sprint team and as a UX Practice lead across a diverse portfolio.
 
 ​There are 2 common themes throughout:
-1) My passion for designing with users, not for users (a shared USDS value).
-2) My strong desire to help untangle gnarly problems or lift up and empower a team of 19 designers, researchers, and content specialists to solve these same problems. 
+1. My passion for designing with users, not for users [a shared [USDS value](https://www.usds.gov/values.html).
+2.  My strong desire to help untangle gnarly problems or lift up and empower a team of 19 designers, researchers, and content specialists to solve these same problems. 
 
-​Although I support and contribute to over 30 individual products connected to Vets.gov, below are a few work samples from some of the projects I was more directly involved with. See Vets.gov/scorecard for details on the full range of products I supported.
+​Although I support and contribute to over 30 individual products connected to [Vets.gov](http://www.vets.gov), below are a few work samples from some of the projects I was more directly involved with. See [Vets.gov/scorecard](http://www.vets.gov/scorecard) for details on the full range of products I supported.
 
+<br />
+
+Disability Benefits Application
+-------------------------------
+
+<div class="row">
+
+<div class="span4">
+
+<img src="/assets/img/va2.png" title="Flow diagram">
+</div>
+
+<div class="span6">
+
+
+<strong>Led discovery sprint to understand more about how Veterans experience the disability benefits claims process and internal discovery around how claims are processed.</strong>
+<p> </p>
+Problem: Applying for disability benefits can be a long and arduous process of gathering official military documents, getting documentation for doctors, and filling out multiple complex forms. This process results in a disability rating that dictates an amount awarded and unlocks further eligibility for a host of other benefits – so it's extremely important and often stressful. 
+<p> </p>
+
+
+</div>
+
+</div>
+
+Outcome of discovery: 
+* Mapping of existing digital application tool, with logic, and supplemental forms with pain points and opportunities learned from discovery
+* Mapping of how the paper application forms work
+* Recommendations for next phase of work
+
+<br />
+
+​Disability Claim Status Checker
+-------------------------------
+
+<div class="row">
+
+<div class="span4">
+
+<img src="/assets/img/va3.png" title="Claim status interface">
+</div>
+
+<div class="span6">
+
+
+<strong>Led the discovery, user research, design, and UX writing for a tool to track the status of disability claims.</strong>
+
+<p> </p>
+
+Problem: It can take up to a year for a Veteran to complete their application to receive disability compensation for injuries received during service. Once applied for, disability claims can take many months to process and have to go through many rounds of review and additional document gathering which can be stressful and opaque. 
+
+<p> </p>
+
+Solution: Through multiple rounds of research with Veterans we identified many opportunities for improvement. Together with another designer, we created a design that aims to simplify the tracking process by presenting it as a timeline with phases, rewritten in plain language, that make it crystal clear what phase a claim is in and what actions are needed from the applicant. 
+<p> </p>
+
+Since it's launch in 2016, this tool has received 7 million pageviews/year and has the highest user return rate of any other tool on Vets.gov.
+
+</div>
+
+</div>
+<br />
+
+
+​Personalization Features
+------------------------
+
+<div class="row">
+
+<div class="span4">
+
+<img src="/assets/img/va4.png" title="Dashboard proof of concept">
+</div>
+
+<div class="span6">
+
+
+<strong>Led initial research synthesis and proof of concept design work for a personalization layer for Vets.gov.</strong>
+
+<p> </p>
+
+As Vets.gov developed and grew, it became time to not just consider it a collection of content pages and tools but a full and modern platform. This modern platform aims to provide not just a one-stop-shop for all a users VA needs but will also sync with a user's data through a collection of back end systems, known journey milestones, and an onboarding experience to provide a personalized experience and recommendations aimed at bringing some order to the overwhelming and time consuming process of getting benefits. 
+
+</div>
+
+</div>
+<br />
+
+​Vets.gov Search Query Analysis
+------------------------------
+
+<div class="row">
+
+<div class="span4">
+
+<img src="/assets/img/va5.png" title="Stats panel">
+</div>
+
+<div class="span6">
+
+
+Although my team employs analytics to gain insight and inform many decisions, we were not regularly utilizing search queries beyond looking at the top 10 or so common searches. Given the complexities and uniqueness of searches, I suspected these top searches didn't adequately represent the long tail of all of the searches and we were missing the big picture. To help solve this problem, I used Tableau to create an interactive dashboard to visualize a year's worth of queries including custom regex formulas to classify all queries to one of 10 categories that map to the site's overall information architecture. The result is a completely different picture of what our users are searching for on the site which launched a series of investigations into areas that may need improvement. Content and IA specialists on the team are particularly interested in the tool as a way to mine for insight into the language used to find services across the site which will allow us to reflect that language in our content.
+
+
+</div>
+
+</div>
