@@ -1,0 +1,17 @@
+---
+layout: post
+title: Illinois Library Website – Content Strategy
+date: 2018-04-24 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: illinois.png # Add image post (optional)
+tags: # add tag
+---
+
+The University of Illinois Library website is a large legacy site that developed organically over many years with thousands of pages of content written by hundreds of people. As part of the effort to move to a new platform, redesign, and develop new content, I established a new UX program with a set of resources to support the migration process. 
+* Led website vision, design, information architecture, content strategy, user research, and assessment activities.
+* Developed content style guide and audit rubric to help content authors and subject matter experts assess (and cull) their current content and learn the new guidelines.
+* Performed project strategy duties to drive functionality, goals, requirements, priorities, and communication between developers, users, and internal stakeholders.
+
+<br />
+
+<a href="https://publish.illinois.edu/libraryweb/" class="btn btn-large btn-inverse">CONTENT STYLE GUIDE</a>
