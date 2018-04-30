@@ -273,6 +273,7 @@ a {
 }
 
 .btn:hover,
+.btn:link,
 .btn:focus,
 .btn:active,
 .btn.active,
