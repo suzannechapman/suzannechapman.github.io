@@ -584,6 +584,7 @@ input[type="button"].btn-block {
 }
 
 .btn-inverse:hover,
+.btn-inverse:link,
 .btn-inverse:focus,
 .btn-inverse:active,
 .btn-inverse.active,
