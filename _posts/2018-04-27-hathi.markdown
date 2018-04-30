@@ -16,4 +16,4 @@ tags:
 
 <br />
 
-<a class="btn btn-large btn-inverse" href="http://www.hathitrust.com">HathiTrust</a>
+<a href="http://www.hathitrust.com" class="btn btn-large btn-inverse">HATHITRUST</a>
