@@ -13,4 +13,6 @@ In 2010, I identified a need for the University of Michigan Library to dedicate 
 * Managed overall vision, strategies, and tasks for department projects.
 * Consulted with other libraries interested in creating a UX program.
 * Trained library staff on user-focused strategies and advocated for data-driven decisions.
+<br />
 
+<a href="/assets/img/ux_infographic.png" class="btn btn-large btn-inverse">UX INFOGRAPHIC</a>
